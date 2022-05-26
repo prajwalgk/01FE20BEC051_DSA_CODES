@@ -1,0 +1,12 @@
+the details of 1 th player is
+odi rank of player is : 2
+team name is : hbds
+player name is : auyfe
+the details of 2 th player is
+odi rank of player is : 4
+team name is : abs
+player name is : dsjvh
+the details of 3 th player is
+odi rank of player is : 5
+team name is : awh
+player name is : euf
